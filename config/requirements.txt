@@ -1,0 +1,5 @@
+feedparser==5.2.1
+python-telegram-bot==5.1.0
+PyYAML==3.12
+yattag==1.6.0
+listparser==0.18
